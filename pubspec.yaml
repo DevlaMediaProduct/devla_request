@@ -1,7 +1,6 @@
 name: devla_request
 description: http client request for dart with interceptor integrate ( BaseURL, RefreshToken when Token expired, etc...).
-version: 0.0.1
-author: Vongkeo KEOSAVANH
+version: 0.0.2
 homepage: https://github.com/DevlaMediaProduct/devla_request
 
 environment:
