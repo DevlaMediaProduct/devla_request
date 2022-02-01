@@ -1,8 +1,8 @@
 name: devla_request
-description: A new Flutter package project.
+description: http client for dart with interceptor integrate with BaseURL.
 version: 0.0.1
-author:
-homepage:
+author: Vongkeo KEOSAVANH
+homepage: https://github.com/DevlaMediaProduct/devla_request
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -11,6 +11,10 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  dio: ^3.0.10
+  get: ^3.17.1
+  get_storage: ^1.3.2
+  http: ^0.12.2
 
 dev_dependencies:
   flutter_test:
